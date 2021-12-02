@@ -1,6 +1,5 @@
-# Name: AQIL MAHMUD, ID: 18341010, Section:10
 # -----------------------------------------------------------------------------------
-# Answer --> 1
+# Depth First Search
 from collections import deque
 
 
@@ -43,7 +42,7 @@ print("Output of Question 1...")
 print(max_effected_region(matrix))
 
 # -----------------------------------------------------------------------------------
-# Answer --> 2
+# Breadth First Search
 
 
 def apocalypse(dead_zone, r, c):
