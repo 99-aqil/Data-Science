@@ -1,5 +1,3 @@
-# Name: AQIL MAHMUD, ID: 18341010
-
 from random import*
 import math
 maximum = math.inf
